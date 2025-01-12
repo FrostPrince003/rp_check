@@ -1,0 +1,5 @@
+python-dotenv
+grok
+PyPDF2
+pandas 
+numpy
